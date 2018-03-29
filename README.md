@@ -1,2 +1,2 @@
 # tools
-Some command tools and commands
+Some useful tools or commands.
